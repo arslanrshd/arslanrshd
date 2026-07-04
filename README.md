@@ -27,11 +27,11 @@ A collection of front-end practice projects focused on layout design, responsive
 These projects demonstrate my ability to structure clean code, design interfaces, and build real-world web pages.
 
 👉 Check out my repositories here:  
-🔗 https://github.com/TheArslanKhan?tab=repositories
+🔗 https://github.com/arslanrshd?tab=repositories
 
 ## Get in Touch 📬
 
-- **GitHub:** https://github.com/TheArslanKhan
+- **GitHub:** https://github.com/arslanrshd
 
 
 
