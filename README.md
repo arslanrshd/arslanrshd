@@ -1,6 +1,6 @@
 # Hi there, I'm Arslan Rasheed! 👋
 
-![Banner Image](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=ArslanRasheed&fontSize=40&fontColor=ffffff)
+![Banner Image](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Arslan Rasheed&fontSize=40&fontColor=ffffff)
 
 ## About Me 🚀
 
