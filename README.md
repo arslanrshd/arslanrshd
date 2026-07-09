@@ -9,7 +9,7 @@ I enjoy building clean, responsive, and user-friendly web interfaces. I love tac
 
 - 🔭 Working on: **Front-End practice projects**
 - 🌍 Languages: **HTML, CSS, JavaScript | English, Urdu**
-- 📫 How to reach me: **GitHub – @TheArslanKhan**
+- 📫 How to reach me: **GitHub – @arslanrshd**
 - ⚡ Fun fact: **I learn best by doing real projects.**
 
 ## My Skills 🧠
