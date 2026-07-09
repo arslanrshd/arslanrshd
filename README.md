@@ -88,26 +88,6 @@ Each repository reflects my focus on:
 
 ---
 
-## 📈 Weekly Development Breakdown
-
-> Updated automatically with WakaTime.
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 2026 Goals
-
-* Build high-quality full front-end projects
-* Master React and the modern JavaScript ecosystem
-* Contribute to open source
-* Improve problem-solving skills
-* Grow as a software developer
-
----
-
 ## 📫 Connect With Me
 
 **GitHub**
