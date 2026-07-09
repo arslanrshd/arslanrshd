@@ -5,70 +5,92 @@
 </p>
 
 <p align="center">
-  <b>Front-End Developer</b> • Lifelong Learner • Building Clean & Responsive Web Experiences
+  <strong>Front-End Developer</strong><br>
+  Learning • Building • Sharing
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a front-end developer passionate about building fast, responsive, and user-friendly websites. I enjoy turning ideas into practical projects while continuously improving my skills through consistent learning and real-world development.
+I'm a passionate Front-End Developer who enjoys transforming ideas into clean, responsive, and user-friendly web experiences.
 
-* 💻 Building responsive web applications
-* 🌱 Currently learning **React**, modern JavaScript, and front-end best practices
-* 🎯 Goal: Become a professional Front-End Developer
-* 📚 Learning by building real projects every week
+My goal isn't just to learn technologies—it's to understand how to build software that solves real problems. I enjoy learning by building practical projects, writing clean code, and improving a little every day.
+
+* 💻 Front-End Developer
+* 🌱 Currently learning **React**, **Tailwind CSS**, and modern JavaScript
+* 🎯 Working toward becoming a professional software developer
+* 📚 Always building projects to improve my skills
 * 🌍 Languages: English • Urdu
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,npm" />
 </p>
+
+**Languages**
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+
+**Frameworks & Libraries**
+
+* React
+* Tailwind CSS
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* npm
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arslanrshd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanrshd&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanrshd&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanrshd&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### Front-End Practice Projects
-
-A growing collection of responsive websites and UI projects built with modern web technologies.
-
-➡️ **Explore my repositories**
-
-https://github.com/arslanrshd?tab=repositories
 
 ---
 
 ## 🌱 Currently Learning
 
-* React
-* Modern JavaScript (ES6+)
-* Git & GitHub
-* Responsive Web Design
-* Accessibility (A11y)
+* ⚛️ React
+* 🎨 Tailwind CSS
+* 📜 Modern JavaScript (ES6+)
+* ♿ Web Accessibility
+* 📱 Responsive Web Design
+* ⚡ Front-End Best Practices
+
+---
+
+## 🚀 Featured Projects
+
+I'm continuously building projects to strengthen my front-end development skills.
+
+Each repository reflects my focus on:
+
+* Clean and maintainable code
+* Responsive layouts
+* Modern UI design
+* Practical problem-solving
+* Continuous improvement
+
+➡️ **Explore my projects**
+
+**https://github.com/arslanrshd?tab=repositories**
 
 ---
 
 ## 📈 Weekly Development Breakdown
 
-> Automatically updated using **WakaTime**
+> Updated automatically with WakaTime.
 
 <!--START_SECTION:waka-->
 
@@ -76,12 +98,24 @@ https://github.com/arslanrshd?tab=repositories
 
 ---
 
+## 🎯 2026 Goals
+
+* Build high-quality full front-end projects
+* Master React and the modern JavaScript ecosystem
+* Contribute to open source
+* Improve problem-solving skills
+* Grow as a software developer
+
+---
+
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/arslanrshd
+**GitHub**
+
+https://github.com/arslanrshd
 
 ---
 
 <p align="center">
-  <i>Learning. Building. Sharing.</i>
+<i>"Learning, building, and sharing—to help me become a better developer every day."</i>
 </p>
