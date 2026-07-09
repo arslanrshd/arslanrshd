@@ -25,7 +25,7 @@ I'm a front-end developer passionate about building fast, responsive, and user-f
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode" />
 </p>
 
 ---
