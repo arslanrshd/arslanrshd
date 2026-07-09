@@ -1,38 +1,87 @@
-# Hi there, I'm Arslan Rasheed! 👋
+# Hi there, I'm Arslan Rasheed 👋
 
-![Banner Image](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=ArslanRasheed&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Arslan%20Rasheed&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-## About Me 🚀
+<p align="center">
+  <b>Front-End Developer</b> • Lifelong Learner • Building Clean & Responsive Web Experiences
+</p>
 
-I'm a passionate **Front-End Developer** with experience in **HTML, CSS, JavaScript, and React**.  
-I enjoy building clean, responsive, and user-friendly web interfaces. I love tackling real-world problems through practical projects and continuously improving my skills by building things.
+---
 
-- 🔭 Working on: **Front-End practice projects**
-- 🌍 Languages: **HTML, CSS, JavaScript | English, Urdu**
-- 📫 How to reach me: **GitHub – @arslanrshd**
-- ⚡ Fun fact: **I learn best by doing real projects.**
+## 🚀 About Me
 
-## My Skills 🧠
+I'm a front-end developer passionate about building fast, responsive, and user-friendly websites. I enjoy turning ideas into practical projects while continuously improving my skills through consistent learning and real-world development.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+* 💻 Building responsive web applications
+* 🌱 Currently learning **React**, modern JavaScript, and front-end best practices
+* 🎯 Goal: Become a professional Front-End Developer
+* 📚 Learning by building real projects every week
+* 🌍 Languages: English • Urdu
 
-## Featured Projects 💻
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arslanrshd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanrshd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanrshd&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### Front-End Practice Projects
 
-A collection of front-end practice projects focused on layout design, responsiveness, and functionality using modern web technologies.  
-These projects demonstrate my ability to structure clean code, design interfaces, and build real-world web pages.
+A growing collection of responsive websites and UI projects built with modern web technologies.
 
-👉 Check out my repositories here:  
-🔗 https://github.com/arslanrshd?tab=repositories
+➡️ **Explore my repositories**
 
-## Get in Touch 📬
+https://github.com/arslanrshd?tab=repositories
 
-- **GitHub:** https://github.com/arslanrshd
+---
 
+## 🌱 Currently Learning
 
+* React
+* Modern JavaScript (ES6+)
+* Git & GitHub
+* Responsive Web Design
+* Accessibility (A11y)
 
+---
 
+## 📈 Weekly Development Breakdown
+
+> Automatically updated using **WakaTime**
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/arslanrshd
+
+---
+
+<p align="center">
+  <i>Learning. Building. Sharing.</i>
+</p>
