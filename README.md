@@ -48,15 +48,7 @@ My goal isn't just to learn technologies—it's to understand how to build softw
 * GitHub
 * VS Code
 * npm
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanrshd&theme=tokyonight&hide_border=true"/>
-</p>
-
+* 
 ---
 
 ## 🌱 Currently Learning
